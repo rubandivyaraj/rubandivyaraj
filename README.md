@@ -5,9 +5,9 @@
 
 </br></br>
 ***Know about me*** 
-- Currently working on [DBS Asia Hub 2](https://www.dbs.com/asia-hub-2/index.html) as a Software Enginner.
-- Having 5 years of experience in Back-end Development and Web Application.
-- Learning front-end development starts from Javascript, JQuery, Ajax and React.
+- Currently working on [DBS Tech India](https://www.dbs.com/asia-hub-2/index.html) as a Software Enginner.
+- Having 6 years of experience in Back-end Development and Web Application.
+- Learning front-end development starts from Javascript, JQuery, Ajax and Angular.
 - Willing to collobrate with people to discuss about technologies and frameworks.
 
 
